@@ -1,0 +1,11 @@
+/elpaca/
+/eln-cache/
+/auto-save-list/
+/persp-confs/
+/elfeed/
+/custom-vars.el
+/history
+/recentf.eld
+/places
+/tramp
+*.elc

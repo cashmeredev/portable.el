@@ -1,0 +1,23 @@
+#+title: Terminal Emacs configuration
+
+* Requirements
+
+- Emacs 30 or newer
+Recommended command-line tools:
+
+- =ripgrep=
+- =git-delta=
+- =zoxide=
+- =xonsh=
+- =universal-ctags=
+- =pandoc=
+- =direnv=
+- =wl-clipboard= for clipboard images on Wayland
+
+* Run
+
+#+begin_src sh
+emacs --init-directory "$PWD/terminal-emacs" -nw
+#+end_src
+
+
